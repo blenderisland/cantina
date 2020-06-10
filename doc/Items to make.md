@@ -1,8 +1,7 @@
 # Place
-
-## Bar
-Games on the sides
-pool table
+	Bar
+	Games on the sides
+	pool table
 
 ## Band
     Eating area
