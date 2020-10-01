@@ -1,12 +1,18 @@
 # cantina
 
-Blenderheads comming together for animation. Now for the 2nd time!
+Blenderexplorer blenderheads comming together for animation. Now for the 2nd time!
 
 This time for a space cantina scene.
 
-- More team members and more action. More models and animations. 
+Our focus is team work experience and explorering supporting features.
+The project is also a cummunity experiment. The team is very open for any level of blenderhead at any time. Any contribution is welcome. The only limitations are for memory and cpu conserns.
+
+Any entertainment or story you may see in the finaly product is purely by dumb luck. 
+
+
 
 /blend directory contains a 'main.blend' file. Other files are linked into this file. If you want to see the animation in blender, use this file.
+It is how ever not setup for rendering atm. You'll need to ask for those files.
 
 How to get started: Doing this requres a little knowledge of github. If you need help, feel free to contact me. But first watch this video: https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be And look over this page: https://guides.github.com/activities/hello-world/
 
