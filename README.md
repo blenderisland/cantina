@@ -14,4 +14,3 @@ In short, what you do: Branch the project, add your files. Request a pull to mas
 
 Security recommendation: In preferences under save and load set 'Auto run python scripts' to diabled, before opening downloaded blender files. Alternatively do this for the folder 'downloads'.
 
-Feel free to contact us via github or blenderisland@gmail.com
